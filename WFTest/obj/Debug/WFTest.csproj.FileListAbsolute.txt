@@ -1,0 +1,10 @@
+C:\Users\mark2\OneDrive\桌面\Programming\C++\WindowsFormsApp\WFTest\bin\Debug\WFTest.exe.config
+C:\Users\mark2\OneDrive\桌面\Programming\C++\WindowsFormsApp\WFTest\bin\Debug\WFTest.exe
+C:\Users\mark2\OneDrive\桌面\Programming\C++\WindowsFormsApp\WFTest\bin\Debug\WFTest.pdb
+C:\Users\mark2\OneDrive\桌面\Programming\C++\WindowsFormsApp\WFTest\obj\Debug\WFTest.csproj.AssemblyReference.cache
+C:\Users\mark2\OneDrive\桌面\Programming\C++\WindowsFormsApp\WFTest\obj\Debug\WFTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\mark2\OneDrive\桌面\Programming\C++\WindowsFormsApp\WFTest\obj\Debug\WFTest.Properties.Resources.resources
+C:\Users\mark2\OneDrive\桌面\Programming\C++\WindowsFormsApp\WFTest\obj\Debug\WFTest.csproj.GenerateResource.cache
+C:\Users\mark2\OneDrive\桌面\Programming\C++\WindowsFormsApp\WFTest\obj\Debug\WFTest.csproj.CoreCompileInputs.cache
+C:\Users\mark2\OneDrive\桌面\Programming\C++\WindowsFormsApp\WFTest\obj\Debug\WFTest.exe
+C:\Users\mark2\OneDrive\桌面\Programming\C++\WindowsFormsApp\WFTest\obj\Debug\WFTest.pdb
