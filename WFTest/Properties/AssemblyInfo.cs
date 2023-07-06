@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 // 變更這些屬性的值即可修改組件的相關
 // 資訊。
 [assembly: AssemblyTitle("WFTest")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("本檔案是為學習C#與Winform")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("WFTest")]
